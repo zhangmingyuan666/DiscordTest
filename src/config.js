@@ -1,10 +1,11 @@
 export const DiscordInfo = {
   TOKEN:
-    "xxx",
-  APPID: "xxx",
+    "MTE0MTM4NzEwODM4NTMxMjg1OQ.GV0CWx.zgcKo2sAuwSZRehiS6vcOJNWmghCDOWoubjBKM",
+  APPID: "1141387108385312859",
   SECRET:
-    "xxx",
+    "_bHAraVduXWxvcuoIk5K57NIhJo9OqL5",
 };
+
 
 export const FabrieUrls = {
   CN: "xxx",
